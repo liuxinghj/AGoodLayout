@@ -1,2 +1,2 @@
 ## AGoodLayout
-This is A great Layout.I need friend
+This is a great layout.I need friend
