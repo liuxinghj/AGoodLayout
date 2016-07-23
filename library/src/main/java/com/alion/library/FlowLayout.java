@@ -185,7 +185,6 @@ public class FlowLayout
                               ? childHeight
                               : mLineHeight;
             }
-
             //save child
             mViews.add(view);
 
